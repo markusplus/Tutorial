@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="flecha_izquierda">&lt;</string>
+    <string name="flecha_derecha">&gt;</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="phone">Phone</string>
+</resources>
